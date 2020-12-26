@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogLab.Web", "BlogLab.Web\BlogLab.Web.csproj", "{2A47997E-19FA-48ED-9D3B-0F7B1DE746C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogLab.Models", "BlogLab.Models\BlogLab.Models.csproj", "{9EC0908A-53C6-417A-8F42-F63DC828E325}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2A47997E-19FA-48ED-9D3B-0F7B1DE746C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A47997E-19FA-48ED-9D3B-0F7B1DE746C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A47997E-19FA-48ED-9D3B-0F7B1DE746C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC0908A-53C6-417A-8F42-F63DC828E325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC0908A-53C6-417A-8F42-F63DC828E325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC0908A-53C6-417A-8F42-F63DC828E325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC0908A-53C6-417A-8F42-F63DC828E325}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
