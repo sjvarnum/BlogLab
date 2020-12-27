@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shane\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj": {}
+    "C:\\Users\\sjv782\\home\\personal\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shane\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj": {
+    "C:\\Users\\sjv782\\home\\personal\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shane\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
+        "projectUniqueName": "C:\\Users\\sjv782\\home\\personal\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
         "projectName": "BlogLab.Web",
-        "projectPath": "C:\\Users\\shane\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
-        "packagesPath": "C:\\Users\\shane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shane\\source\\repos\\BlogLab\\BlogLab.Web\\obj\\",
+        "projectPath": "C:\\Users\\sjv782\\home\\personal\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
+        "packagesPath": "C:\\Users\\sjv782\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sjv782\\home\\personal\\source\\repos\\BlogLab\\BlogLab.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sjv782\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
