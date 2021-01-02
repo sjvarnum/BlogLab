@@ -1,5 +1,5 @@
 *.sql
-
+.vs/BlogLab/v16/.suo
 
 
 
@@ -378,3 +378,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
