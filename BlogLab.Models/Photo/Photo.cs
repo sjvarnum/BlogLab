@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BlogLab.Models.Photo
 {
-    class Photo : PhotoCreate
+    public class Photo : PhotoCreate
     {
         public int PhotoId { get; set; }
 

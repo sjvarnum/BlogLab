@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\shane\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
+  "FilePath": "c:\\Users\\sjv782\\home\\personal\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14387,7 +14387,7 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 800
+    "CSharpLanguageVersion": 900
   },
   "RootNamespace": "BlogLab.Web",
   "Documents": [],
